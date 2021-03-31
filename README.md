@@ -1,3 +1,22 @@
-# pandas-challenge
-In this project, I will utilize pandas to perform an in-depth analysis of data concerning a city's school district. Throughout the process, I will generate tables showing critical metrics for each school ,  each school district , top-performing schools and bottom performing schools. Furthermore, I will also conduct data manipulations to find potential factors impacting schools' performances. Regression analysis is used to find correlations and assess their statistical significiance as well
+# Analysis of schools performances and factors influencing them
+
+# Project Intro/Objective
+Comparison of academic performances between high schools and the identification of critical factors causing the performance difference.
+
+# Methods Used
+* Data Visualization
+* Regression Model
+* Inferential Statistics
+
+# Technologies
+* Python
+* Matplotlib
+* Pandas
+* Jupyter Notebook
+
+# Project Description
+In this in-depth analysis of students' academic performance in a school district, all schools' average academic performances are compared based on reading and mathematics scores with the use of data visualization. Furthermore, regression analysis is implemented to determine factors that led to the performance difference between high schools.
+
+# Contact
+Feel free to contact team leads with any questions or if you are interested in contributing! 
 #Stephen Zhang
